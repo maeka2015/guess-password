@@ -41,15 +41,3 @@ function GuessPassword(props) {
 }
 
 export default GuessPassword;
-
-// |        Guess the Password                |
-// |                                          |
-// |                                          |
-// |             hint: 12345678               |
-// |                                          |
-// |                                          |
-// |           attempt 1: 3456782             |
-// |                                          |
-// |                                          |
-// |             [type here]                  |
-// |               |submit|                   |
